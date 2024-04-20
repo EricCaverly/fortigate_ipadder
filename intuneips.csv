@@ -1,0 +1,98 @@
+ipmask, Intune0, Endpoint-Manager-client-and-host-services,   104.46.162.96 255.255.255.224
+ipmask, Intune1, Endpoint-Manager-client-and-host-services,    13.67.13.176 255.255.255.240
+ipmask, Intune2, Endpoint-Manager-client-and-host-services,    13.67.15.128 255.255.255.224
+ipmask, Intune3, Endpoint-Manager-client-and-host-services,   13.69.231.128 255.255.255.240
+ipmask, Intune4, Endpoint-Manager-client-and-host-services,    13.69.67.224 255.255.255.240
+ipmask, Intune5, Endpoint-Manager-client-and-host-services,    13.70.78.128 255.255.255.240
+ipmask, Intune6, Endpoint-Manager-client-and-host-services,    13.70.79.128 255.255.255.224
+ipmask, Intune7, Endpoint-Manager-client-and-host-services,    13.71.199.64 255.255.255.240
+ipmask, Intune8, Endpoint-Manager-client-and-host-services,    13.73.244.48 255.255.255.240
+ipmask, Intune9, Endpoint-Manager-client-and-host-services,   13.74.111.192 255.255.255.224
+ipmask, Intune10, Endpoint-Manager-client-and-host-services,   13.77.53.176 255.255.255.240
+ipmask, Intune11, Endpoint-Manager-client-and-host-services,  13.86.221.176 255.255.255.240
+ipmask, Intune12, Endpoint-Manager-client-and-host-services,  13.89.174.240 255.255.255.240
+ipmask, Intune13, Endpoint-Manager-client-and-host-services,  13.89.175.192 255.255.255.240
+ipmask, Intune14, Endpoint-Manager-client-and-host-services,   20.189.229.0 255.255.255.128
+ipmask, Intune15, Endpoint-Manager-client-and-host-services,   20.191.167.0 255.255.255.128
+ipmask, Intune16, Endpoint-Manager-client-and-host-services,    20.37.153.0 255.255.255.0
+ipmask, Intune17, Endpoint-Manager-client-and-host-services,  20.37.192.128 255.255.255.128
+ipmask, Intune18, Endpoint-Manager-client-and-host-services,     20.38.81.0 255.255.255.0
+ipmask, Intune19, Endpoint-Manager-client-and-host-services,      20.41.1.0 255.255.255.0
+ipmask, Intune20, Endpoint-Manager-client-and-host-services,      20.42.1.0 255.255.255.0
+ipmask, Intune21, Endpoint-Manager-client-and-host-services,    20.42.130.0 255.255.255.0
+ipmask, Intune22, Endpoint-Manager-client-and-host-services,  20.42.224.128 255.255.255.128
+ipmask, Intune23, Endpoint-Manager-client-and-host-services,    20.43.129.0 255.255.255.0
+ipmask, Intune24, Endpoint-Manager-client-and-host-services,   20.44.19.224 255.255.255.224
+ipmask, Intune25, Endpoint-Manager-client-and-host-services,   20.49.93.160 255.255.255.224
+ipmask, Intune26, Endpoint-Manager-client-and-host-services,   40.119.8.128 255.255.255.128
+ipmask, Intune27, Endpoint-Manager-client-and-host-services,  40.67.121.224 255.255.255.224
+ipmask, Intune28, Endpoint-Manager-client-and-host-services,   40.70.151.32 255.255.255.240
+ipmask, Intune29, Endpoint-Manager-client-and-host-services,    40.71.14.96 255.255.255.240
+ipmask, Intune30, Endpoint-Manager-client-and-host-services,     40.74.25.0 255.255.255.0
+ipmask, Intune31, Endpoint-Manager-client-and-host-services,  40.78.245.240 255.255.255.240
+ipmask, Intune32, Endpoint-Manager-client-and-host-services,  40.78.247.128 255.255.255.224
+ipmask, Intune33, Endpoint-Manager-client-and-host-services,   40.79.197.64 255.255.255.224
+ipmask, Intune34, Endpoint-Manager-client-and-host-services,   40.79.197.96 255.255.255.240
+ipmask, Intune35, Endpoint-Manager-client-and-host-services,  40.80.180.208 255.255.255.240
+ipmask, Intune36, Endpoint-Manager-client-and-host-services,  40.80.180.224 255.255.255.224
+ipmask, Intune37, Endpoint-Manager-client-and-host-services,  40.80.184.128 255.255.255.128
+ipmask, Intune38, Endpoint-Manager-client-and-host-services,  40.82.248.224 255.255.255.240
+ipmask, Intune39, Endpoint-Manager-client-and-host-services,  40.82.249.128 255.255.255.128
+ipmask, Intune40, Endpoint-Manager-client-and-host-services,   52.150.137.0 255.255.255.128
+ipmask, Intune41, Endpoint-Manager-client-and-host-services,  52.162.111.96 255.255.255.240
+ipmask, Intune42, Endpoint-Manager-client-and-host-services, 52.168.116.128 255.255.255.224
+ipmask, Intune43, Endpoint-Manager-client-and-host-services, 52.182.141.192 255.255.255.224
+ipmask, Intune44, Endpoint-Manager-client-and-host-services,  52.236.189.96 255.255.255.224
+ipmask, Intune45, Endpoint-Manager-client-and-host-services, 52.240.244.160 255.255.255.224
+ipmask, Intune46, Endpoint-Manager-client-and-host-services,  20.204.193.12 255.255.255.252
+ipmask, Intune47, Endpoint-Manager-client-and-host-services,  20.204.193.10 255.255.255.254
+ipmask, Intune48, Endpoint-Manager-client-and-host-services, 20.192.174.216 255.255.255.248
+ipmask, Intune49, Endpoint-Manager-client-and-host-services,  20.192.159.40 255.255.255.248
+fqdn, Intune50, Endpoint-Manager-client-and-host-services, EnterpriseEnrollment.manage.microsoft.com
+fqdn, Intune51, Endpoint-Manager-client-and-host-services, manage.microsoft.com
+fqdn, Intune52, Endpoint-Manager-client-and-host-services, *.manage.microsoft.com
+fqdn, Intune53, MDM-Delivery-Optimization, *.do.dsp.mp.microsoft.com
+fqdn, Intune54, MDM-Delivery-Optimization, *.dl.delivery.mp.microsoft.com
+fqdn, Intune55, MDM-Delivery-Optimization, *.emdl.ws.microsoft.com
+fqdn, Intune56, MDM-Delivery-Optimization, kv801.prod.do.dsp.mp.microsoft.com
+fqdn, Intune57, MDM-Delivery-Optimization, geo.prod.do.dsp.mp.microsoft.com
+fqdn, Intune58, MDM-Delivery-Optimization, emdl.ws.microsoft.com
+fqdn, Intune59, MDM-Delivery-Optimization, 2.dl.delivery.mp.microsoft.com
+fqdn, Intune60, MDM-Delivery-Optimization, bg.v4.emdl.ws.microsoft.com
+fqdn, Intune60, MEM-PS-and-Win32Apps, swda01-mscdn.azureedge.net
+fqdn, Intune60, MEM-PS-and-Win32Apps, swda02-mscdn.azureedge.net
+fqdn, Intune60, MEM-PS-and-Win32Apps, swdb01-mscdn.azureedge.net
+fqdn, Intune60, MEM-PS-and-Win32Apps, swdb02-mscdn.azureedge.net
+fqdn, Intune60, MEM-PS-and-Win32Apps, swdc01-mscdn.azureedge.net
+fqdn, Intune60, MEM-PS-and-Win32Apps, swdc02-mscdn.azureedge.net
+fqdn, Intune60, MEM-PS-and-Win32Apps, swdd01-mscdn.azureedge.net
+fqdn, Intune60, MEM-PS-and-Win32Apps, swdd02-mscdn.azureedge.net
+fqdn, Intune60, MEM-PS-and-Win32Apps, swdin01-mscdn.azureedge.net
+fqdn, Intune60, MEM-PS-and-Win32Apps, swdin02-mscdn.azureedge.net
+fqdn, Intune60, Consumer-Outlook-and-OneDrive, account.live.com
+fqdn, Intune60, Consumer-Outlook-and-OneDrive, login.live.com
+fqdn, Autopilot0, Autopilot-Windows-Update, *.download.windowsupdate.com
+fqdn, Autopilot1, Autopilot-Windows-Update, *.windowsupdate.com
+fqdn, Autopilot2, Autopilot-Windows-Update, *.dl.delivery.mp.microsoft.com
+fqdn, Autopilot3, Autopilot-Windows-Update, *.prod.do.dsp.mp.microsoft.com
+fqdn, Autopilot4, Autopilot-Windows-Update, emdl.ws.microsoft.com
+fqdn, Autopilot5, Autopilot-Windows-Update, *.delivery.mp.microsoft.com
+fqdn, Autopilot6, Autopilot-Windows-Update, *.update.microsoft.com
+fqdn, Autopilot7, Autopilot-Windows-Update, tsfe.trafficshaping.dsp.mp.microsoft.com
+fqdn, Autopilot8, Autopilot-Windows-Update, au.download.windowsupdate.com
+fqdn, Autopilot9, Autopilot-Windows-Update, 2.dl.delivery.mp.microsoft.com
+fqdn, Autopilot10, Autopilot-Windows-Update, download.windowsupdate.com
+fqdn, Autopilot11, Autopilot-Windows-Update, dl.delivery.mp.microsoft.com
+fqdn, Autopilot12, Autopilot-Windows-Update, geo.prod.do.dsp.mp.microsoft.com
+fqdn, Autopilot13, Autopilot-Windows-Update, catalog.update.microsoft.com
+fqdn, Autopilot14, Autopilot-NTP-Sync, time.windows.com
+fqdn, Autopilot15, Autopilot-NTP-Sync, www.msftncsi.com
+fqdn, Autopilot16, Autopilot-NTP-Sync, www.msftconnecttest.com
+fqdn, Autopilot17, Autopilot-WNS-Dependencies, clientconfig.passport.net
+fqdn, Autopilot18, Autopilot-WNS-Dependencies, windowsphone.com
+fqdn, Autopilot19, Autopilot-WNS-Dependencies, *.s-microsoft.com
+fqdn, Autopilot20, Autopilot-WNS-Dependencies, c.s-microsoft.com
+fqdn, Autopilot21, Autopilot-3rd-party-deployment-dependencies, ekop.intel.com
+fqdn, Autopilot22, Autopilot-3rd-party-deployment-dependencies, ekcert.spserv.microsoft.com
+fqdn, Autopilot23, Autopilot-3rd-party-deployment-dependencies, ftpm.amd.com
+fqdn, Autopilot24, Autopilot-Diagnostics-upload, lgmsapeweu.blob.core.windows.ne

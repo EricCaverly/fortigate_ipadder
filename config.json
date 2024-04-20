@@ -1,0 +1,7 @@
+{
+    "fw": "192.168.0.1:10443", 
+    "username": "admin", 
+    "password": "P@ssw0rd", 
+    "addressObjectName": "imported_addresses",
+    "filename": "intuneips.csv"
+}
