@@ -28,5 +28,9 @@ options:
 }
 ```
 
+### API Library
+
+https://github.com/vladimirs-git/fortigate-api/tree/main
+
 
 
