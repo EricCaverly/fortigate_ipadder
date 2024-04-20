@@ -27,11 +27,14 @@ options:
 {
     "fw": "IPADDRESS/FQDN:PORT", 
     "username": "USERNAME", 
-    "password": "PASSWORD", 
+    "password": "PASSWORD",
+    "addressColor": COLORID,
+    "addressGroupColor": COLORID,
     "addressObjectName": "ADDRGRPNAME",
     "filename": "CSV"
 }
 ```
+> Lime green is 13
 
 ### Data
 - Use the data under "intuneips.csv" as a guide, then update the path in your config appropriately.
