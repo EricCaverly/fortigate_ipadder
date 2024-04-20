@@ -5,6 +5,11 @@
 - Somewhat modern version of FortiOS
 - Admin account without 2FA
 
+### Python Requirements
+```bash
+pip install fortigate-api
+```
+
 ### CMD usage
 ```
 usage: Fortigate Address Adder [-h] [-d] [-v] [-c CONFIG]
