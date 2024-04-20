@@ -2,6 +2,8 @@
     "fw": "192.168.0.1:10443", 
     "username": "admin", 
     "password": "P@ssw0rd", 
+    "addressColor": 13,
+    "addressGroupColor": 13,
     "addressObjectName": "imported_addresses",
     "filename": "intuneips.csv"
 }

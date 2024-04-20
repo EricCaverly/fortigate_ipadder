@@ -1,9 +1,15 @@
+"""
+Title: Fortigate Address Object Adder
+Author: Eric Caverly
+Date: 04/19/2024
+"""
+
 from fortigate_api import FortiGateAPI as fg
 import csv
 import json
 import argparse
 
-cfg_path = "./test_config.json"
+cfg_path = "./config.json"
 
 # Parse arguments for more usability
 parser = argparse.ArgumentParser(prog='Fortigate Address Adder')
@@ -63,7 +69,7 @@ with open(config['filename'], "r") as csv_file:
             "obj-type": "ip",
             "comment": row[2].strip(),
             "type": row[0].strip(),
-
+            "color": config["addressColor"],
         }
 
         # Determine what type of object to create. If more types are required, add them here
@@ -108,6 +114,7 @@ if(not delete):
     addrGrpData = {
         "name": config["addressObjectName"],
         "member": address_list,
+        "color": config["addressGroupColor"],
     }
 
 
