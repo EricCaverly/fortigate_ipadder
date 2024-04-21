@@ -1,5 +1,7 @@
 # Fortigate IP adder
-Written for BAIST students at NAIT to import intune IP addresses from a CSV. Creating a lot of IP address objects is a common enough task that I felt making the script more versatile would be handy. Feel free to use it however you want.
+Super simple python script that uses a CSV file to import address objects into a fortigate, then create an address group that contains all addresses. 
+
+You can specify different config files with `-c` to very quickly add multiple CSVs to 1 or more firewalls.
 
 ### Fortigate Pre-Requisites
 - Somewhat modern version of FortiOS
@@ -12,7 +14,7 @@ pip install fortigate-api
 
 ### CMD usage
 ```
-usage: Fortigate Address Adder [-h] [-d] [-v] [-c CONFIG]
+usage: python main.py [-h] [-d] [-v] [-c CONFIG]
 
 options:
   -h, --help            show this help message and exit
